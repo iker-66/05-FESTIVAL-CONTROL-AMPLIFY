@@ -67,7 +67,7 @@ export default function App() {
       </View>
       <View style={s.hero}>
         <Text style={s.heroTag}>ZARAGOZA · FESTIVAL OPERATIONS</Text>
-        <Text style={[s.heroTitle,wide&&{fontSize:62}]}>THE NIGHT{ '\n' }IS YOURS.</Text>
+        <Text style={[s.heroTitle,wide&&{fontSize:62}]}>THE WORL{ '\n' }IS YOURS.</Text>
         <Text style={s.heroSub}>Gestiona la programación en tiempo real. Demo interactiva sin backend.</Text>
       </View>
       {page==='dashboard' && <>
